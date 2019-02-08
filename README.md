@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : Dmitriev Pavel
-* Codeship : [![Build Status](https://travis-ci.com/padmitriev/tasks1.svg?branch=master)](https://travis-ci.com/padmitriev/tasks1)
+* Travis CI : [![Build Status](https://travis-ci.com/padmitriev/tasks1.svg?branch=master)](https://travis-ci.com/padmitriev/tasks1)
 
 Example of Codeship badge. Please remove the example before you send us the link. 
 
